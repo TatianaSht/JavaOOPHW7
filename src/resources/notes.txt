@@ -1,0 +1,5 @@
+2024-10-09T19:00: Cinema
+2024-10-12T10:20: Dentist
+2024-10-15T18:30: School meeting
+2024-10-20T20:00: Restaurant
+2024-10-30T12:10: Training
